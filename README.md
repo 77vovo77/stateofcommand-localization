@@ -17,12 +17,13 @@ Anyone is welcome to help improve translations or add support for new languages.
 
 To make a new file:
 
-1. Open the `locales` folder
-2. Click **Add file** near the top-right and select **Create new file**
-3. Name the file using your language code (e.g., `en.txt`)
-4. Paste the original text and add your translations
-5. Click **Commit changes**
-6. Open a Pull Request
+1. Create a fork through the [fork button](https://github.com/YoungLionIV/stateofcommand-localization/fork)
+2. Open the `locales` folder
+3. Click **Add file** near the top-right and select **Create new file**
+4. Name the file using your language code (e.g., `en.txt`)
+5. Paste the original text and add your translations
+6. Click **Commit changes**
+7. Open a Pull Request
 
 > translate only the values after =.
 
