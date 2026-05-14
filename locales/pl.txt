@@ -254,9 +254,9 @@ editor.mode.roads=Drogi
 editor.mode.buildings=Budynki
 editor.mode.units=Dywizje
 editor.mode.nations=Kraje
-editor.status.modified= [EDYTOWANE]
-editor.status.dropper_active= | DROPPER AKTYWNY
-editor.status.add_vertex= | DODAJ PUNKT
+editor.status.modified=[EDYTOWANE]
+editor.status.dropper_active=| DROPPER AKTYWNY
+editor.status.add_vertex=| DODAJ PUNKT
 editor.status.no_map=Wybierz Mape
 
 # Editor| Help Overlay
@@ -286,7 +286,7 @@ editor.hint.search_provinces=Szukaj prowincji...
 
 # ---- Editor — Province Creation Panel ----
 editor.window.draw_province=Rysuj prowincję
-editor.label.click_map_vertices= Naciśnij na mapę aby postawić punkt graniczny
+editor.label.click_map_vertices=Naciśnij na mapę aby postawić punkt graniczny
 editor.label.vertices_placed=Punkty postawione: %d
 editor.input.create_prov_name=Nazwa##crprov
 editor.input.create_prov_state=Kraj##crprov
