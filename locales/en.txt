@@ -10,10 +10,21 @@ menu.button.profile=Profile
 menu.button.settings=Settings
 menu.button.quit=Quit
 menu.intro.presented_by=Presented to you by
+menu.intro.layth_issam_elzaim=L a y t h  I s s a m  E l  Z a i m 
+# You can transliterate or get the equivalent of my name in your language, 
+#make sure to do a space between each character that is next to each other, 
+#and double space where there would normally be 1 space.
 
-# Main Menu Settings
-menu.settings.title=Settings
-menu.settings.language=Language
+# Settings| NEW STUFF AND THAT'S IT [No other updates past my name and the settings for now]
+ui.settings.title=Settings
+ui.settings.tab.graphics=Graphics
+ui.settings.tab.language=Language
+ui.settings.tab.game_visuals=Game Visuals
+
+ui.settings.resolution=Resolution
+ui.settings.window_mode=Window Mode
+
+ui.settings.language=Language
 
 # UI Manager| Flag Bar
 ui.button.diplomacy=Diplomacy
