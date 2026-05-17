@@ -10,10 +10,21 @@ menu.button.profile= פרופילים
 menu.button.settings= הגדרות
 menu.button.quit= צא מהמשחק
 menu.intro.presented_by=מוצג לכם על ידי 
+menu.intro.layth_issam_elzaim=ל י י ת  ע י ס א ם  א ל  ז ע י ם
+# You can transliterate or get the equivalent of my name in your language, 
+#make sure to do a space between each character that is next to each other, 
+#and double space where there would normally be 1 space.
 
-# Main Menu Settings
-menu.settings.title=הגדרות
-menu.settings.language=שפה
+# Settings| NEW STUFF AND THAT'S IT [No other updates past my name and the settings for now]
+ui.settings.title=הגדרות
+ui.settings.tab.graphics=גרפיקה
+ui.settings.tab.language=שפה
+ui.settings.tab.game_visuals=חזות המשחק
+
+ui.settings.resolution=רזולוציה
+ui.settings.window_mode=מצב חלון
+
+ui.settings.language=שפה
 
 # UI Manager| Flag Bar
 ui.button.diplomacy=דיפלומטיה

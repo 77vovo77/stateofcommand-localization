@@ -10,10 +10,21 @@ menu.button.profile=Профиль
 menu.button.settings=Настройки
 menu.button.quit=Выйти
 menu.intro.presented_by=Представлено вам
+menu.intro.layth_issam_elzaim=Л е й т  И с с а м  Э л ь  З а и м
+# You can transliterate or get the equivalent of my name in your language, 
+#make sure to do a space between each character that is next to each other, 
+#and double space where there would normally be 1 space.
 
-# Main Menu Settings
-menu.settings.title=Настройки
-menu.settings.language=Язык
+# Settings| NEW STUFF AND THAT'S IT [No other updates past my name and the settings for now]
+ui.settings.title=Настройки
+ui.settings.tab.graphics=Графика
+ui.settings.tab.language=Язык
+ui.settings.tab.game_visuals=Визуализация игры
+
+ui.settings.resolution=Разрешение
+ui.settings.window_mode=Оконный режим
+
+ui.settings.language=Язык
 
 # UI Manager| Flag Bar
 ui.button.diplomacy=Дипломатия

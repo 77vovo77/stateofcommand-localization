@@ -10,10 +10,21 @@ menu.button.profile=Profiel
 menu.button.settings=Instellingen
 menu.button.quit=Beëindig Spel
 menu.intro.presented_by=Aangeboden door
+menu.intro.layth_issam_elzaim=L a y t h  I s s a m  E l  Z a i m
+# You can transliterate or get the equivalent of my name in your language, 
+#make sure to do a space between each character that is next to each other, 
+#and double space where there would normally be 1 space.
 
-# Main Menu Settings
-menu.settings.title=Instellingen
-menu.settings.language=Taal
+# Settings| NEW STUFF AND THAT'S IT [No other updates past my name and the settings for now]
+ui.settings.title=Instellingen
+ui.settings.tab.graphics=Grafisch
+ui.settings.tab.language=Taal
+ui.settings.tab.game_visuals=Spelbeelden
+
+ui.settings.resolution=Resolutie
+ui.settings.window_mode=Venstermodus
+
+ui.settings.language=Taal
 
 # UI Manager| Flag Bar
 ui.button.diplomacy=Diplomatie

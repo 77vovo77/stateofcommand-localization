@@ -10,10 +10,21 @@ menu.button.profile=Προφίλ
 menu.button.settings=Ρυθμίσεις
 menu.button.quit=Έξοδος
 menu.intro.presented_by=Παρουσιάζεται από τον
+menu.intro.layth_issam_elzaim=Λ έ ι θ  Ι σ ά μ  Ε λ  Ζ α ί μ
+# You can transliterate or get the equivalent of my name in your language, 
+#make sure to do a space between each character that is next to each other, 
+#and double space where there would normally be 1 space.
 
-# Main Menu Settings
-menu.settings.title=Ρυθμίσεις
-menu.settings.language=Γλώσσα
+# Settings| NEW STUFF AND THAT'S IT [No other updates past my name and the settings for now]
+ui.settings.title=Ρυθμίσεις
+ui.settings.tab.graphics=Γραφικά
+ui.settings.tab.language=Γλώσσα
+ui.settings.tab.game_visuals=Οπτικά Παιχνιδιού
+
+ui.settings.resolution=Ανάλυση
+ui.settings.window_mode=Λειτουργία Παραθύρου
+
+ui.settings.language=Γλώσσα
 
 # UI Manager| Flag Bar
 ui.button.diplomacy=Διπλωματία

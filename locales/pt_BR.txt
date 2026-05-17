@@ -10,10 +10,21 @@ menu.button.profile=Perfil
 menu.button.settings=Configurações
 menu.button.quit=Sair
 menu.intro.presented_by=Apresentado para você por
+menu.intro.layth_issam_elzaim=L a y t h  I s s a m  E l  Z a i m
+# You can transliterate or get the equivalent of my name in your language, 
+#make sure to do a space between each character that is next to each other, 
+#and double space where there would normally be 1 space.
 
-# Main Menu Settings
-menu.settings.title=Configurações 
-menu.settings.language=Linguagem
+# Settings| NEW STUFF AND THAT'S IT [No other updates past my name and the settings for now]
+ui.settings.title=Configurações
+ui.settings.tab.graphics=Gráficos
+ui.settings.tab.language=Linguagem
+ui.settings.tab.game_visuals=Visuais do Jogo
+
+ui.settings.resolution=Resolução
+ui.settings.window_mode=Modo Janela
+
+ui.settings.language=Linguagem
 
 # UI Manager| Flag Bar
 ui.button.diplomacy=Diplomacia

@@ -10,10 +10,21 @@ menu.button.profile=الملف الشخصي
 menu.button.settings=الإعدادات
 menu.button.quit=خروج
 menu.intro.presented_by=مقدمة لكم من
+menu.intro.layth_issam_elzaim=ل ي ث  ع ص ا م  ا ل ز ع ي م
+# You can transliterate or get the equivalent of my name in your language, 
+#make sure to do a space between each character that is next to each other, 
+#and double space where there would normally be 1 space.
 
-# Main Menu Settings
-menu.settings.title=الإعدادات
-menu.settings.language=اللغة
+# Settings| NEW STUFF AND THAT'S IT [No other updates past my name and the settings for now]
+ui.settings.title=الإعدادات
+ui.settings.tab.graphics=الرسومات
+ui.settings.tab.language=اللغة
+ui.settings.tab.game_visuals=مرئيات اللعبة
+
+ui.settings.resolution=الدقة
+ui.settings.window_mode=وضع النافذة
+
+ui.settings.language=اللغة
 
 # UI Manager| Flag Bar
 ui.button.diplomacy=الدبلوماسية

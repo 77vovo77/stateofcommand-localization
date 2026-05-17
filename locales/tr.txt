@@ -10,10 +10,21 @@ menu.button.profile=Profil
 menu.button.settings=Ayarlar
 menu.button.quit=Oyundan çık
 menu.intro.presented_by=Sunar  
+menu.intro.layth_issam_elzaim=L a y t h  I s s a m  E l  Z a i m
+# You can transliterate or get the equivalent of my name in your language, 
+#make sure to do a space between each character that is next to each other, 
+#and double space where there would normally be 1 space.
 
-# Main Menu Settings
-menu.settings.title=Ayarlar
-menu.settings.language=Dil
+# Settings| NEW STUFF AND THAT'S IT [No other updates past my name and the settings for now]
+ui.settings.title=Ayarlar
+ui.settings.tab.graphics=Grafikler
+ui.settings.tab.language=Dil
+ui.settings.tab.game_visuals=Oyun Görselleri
+
+ui.settings.resolution=Çözünürlük
+ui.settings.window_mode=Pencere Modu
+
+ui.settings.language=Dil
 
 # UI Manager| Flag Bar
 ui.button.diplomacy=Diplomasi

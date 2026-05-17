@@ -10,10 +10,21 @@ menu.button.profile=Պրոֆիլ
 menu.button.settings=Կարգավորումներ
 menu.button.quit=Դուրս գալ
 menu.intro.presented_by=Ձեզ է ներկայացնում
+menu.intro.layth_issam_elzaim=Լ ե յ թ  Ի ս ա մ  Է լ  Զ ա ի մ
+# You can transliterate or get the equivalent of my name in your language, 
+#make sure to do a space between each character that is next to each other, 
+#and double space where there would normally be 1 space.
 
-# Main Menu Settings
-menu.settings.title=Կարգավորումներ
-menu.settings.language=Լեզու
+# Settings| NEW STUFF AND THAT'S IT [No other updates past my name and the settings for now]
+ui.settings.title=Կարգավորումներ
+ui.settings.tab.graphics=Գրաֆիկա
+ui.settings.tab.language=Լեզու
+ui.settings.tab.game_visuals=Խաղի վիզուալներ
+
+ui.settings.resolution=Որոշաչափ
+ui.settings.window_mode=Պատուհանի ռեժիմ
+
+ui.settings.language=Լեզու
 
 # UI Manager| Flag Bar
 ui.button.diplomacy=Դիվանագիտություն
