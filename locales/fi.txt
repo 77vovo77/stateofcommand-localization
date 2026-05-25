@@ -188,7 +188,7 @@ editor.label.enemies=Viholliset
 editor.btn.add_enemy=Lisää Vihollinen
 editor.label.province_list_header=Maakuntalista
 editor.label.state_management=Valtionhallinta
-editor.input.new_state_name=Luo Valtio Nimi##uusivaltio
+editor.input.new_state_name=Luo Valtio Nimi##newstate
 editor.btn.create_state=Luo Valtio
 editor.btn.delete_state=Poista Tämä Valtio
 
@@ -346,18 +346,18 @@ editor.input.urban_name=Nimi
 editor.input.urban_state=Omistava Valtio
 editor.input.urban_province=Maakunta
 editor.input.urban_pop=Väestö
-editor.input.filter_urban=Suodata##kaupunkialue
+editor.input.filter_urban=Suodata##urban
 
 # Editor| Urban Area Creation Panel
 editor.window.draw_urban=Piirrä Kaupunkialue
-editor.input.create_urban_name=Nimi##crkaupunkialue
-editor.input.create_urban_state=Valtio##crkaupunkialue
+editor.input.create_urban_name=Nimi##crurban
+editor.input.create_urban_state=Valtio##crurban
 editor.btn.finish_urban=Viimeistele Kaupunkialue
 
 # Editor| Nation Editor Tab
 editor.window.nation_editor=Valtioeditori
 editor.label.nations_count=Valtiot: %d
-editor.input.filter_nations=Suodata##valtiot
+editor.input.filter_nations=Suodata##nations
 editor.label.selected_nation=Valittuna: %s
 editor.input.nation_name_ne=Valtion Nimi##ne
 editor.label.provinces_ne=Maakunnat##ne
