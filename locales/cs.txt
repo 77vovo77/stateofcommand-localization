@@ -58,7 +58,7 @@ ui.settings.unit_size=Velikost Jednotky
 
 # UI Manager| City tab (single city)
 ui.label.pop=Pop: %d
-ui.label.buildings=Buildings:
+ui.label.buildings=Budovy:
 ui.label.no_buildings=Žádné Budovy
 ui.label.construct=Stavět:
 ui.button.factory=Továrna
@@ -78,7 +78,7 @@ ui.button.construct_buildings=Vytvořit budovy
 ui.building.industrial_factory=Průmyslová Továrna
 ui.building.production_lines=Výrobní Linky:
 ui.building.inventory=Inventář:
-ui.building.no_items=Žádné Přednměty
+ui.building.no_items=Žádné Předměty
 ui.button.add_production_line=Přidat Výrobní Linku
 ui.building.military_hq_title=Vojenské HQ
 ui.button.spawn_unit=Spawnout Jednotku
